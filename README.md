@@ -3,7 +3,7 @@
 <h1 align="center">Hi there👋,I'm Pradhunya Gawande </h1>
 <h3 align="center">I'm a passionate developer who loves coding and building innovative solutions. Welcome to my GitHub profile! </h3>
 <br>
-# 💫 About Me:
+💫 About Me:
 <br>🔭 I’m currently working on several exciting projects.<br>🌱 I’m always learning and exploring new technologies.<br>💬 Ask me about web development and tech in general.<br>📫 How to reach me: pradhunyagwande@gmaii.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love coding challenges and hackathons.
 
 
