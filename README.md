@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Moderustic&weight=800&size=28&pause=1000&color=8BAFF7&center=true&vCenter=true&width=440&height=60&lines=Hi+there%F0%9F%91%8B%2CI'm+Pradhunya.;Frontend+Developer+)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Moderustic&weight=800&size=28&pause=1000&color=8BAFF7&center=true&vCenter=true&width=440&height=60&lines=Hi%F0%9F%91%8B%2CI'm+Pradhunya Gawande.;Frontend+Developer+)
 <br>
 
  ## 🌐 Socials:
