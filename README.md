@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Moderustic&weight=800&size=28&pause=1000&color=8BAFF7&center=true&vCenter=true&width=440&height=60&lines=Hi%F0%9F%91%8B%2CI'm+Pradhunya Gawande.;Frontend+Developer+)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Moderustic&weight=800&size=30&letterSpacing=Mediunm+&pause=1000&color=94AE89&center=true&vCenter=true&random=true&width=440&height=60&lines=Hi+%F0%9F%91%8B%2CI'm+Pradhunya+Gawande;I+am+Frontend+Developer+;I+am+Cybersecurity+Enthusiasts+)](https://git.io/typing-svg)
 <br>
 
  ## 🌐 Socials:
