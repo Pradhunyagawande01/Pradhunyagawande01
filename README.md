@@ -1,7 +1,5 @@
-  ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center">Hi there👋,I'm Pradhunya Gawande </h1>
-<h3 align="center">I'm a passionate developer who loves coding and building innovative solutions. Welcome to my GitHub profile! </h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Moderustic&weight=800&size=28&pause=1000&random=true&width=440&height=60&lines=Hi+there%F0%9F%91%8B%2CI'm+Pradhunya.;Frontend+Developer+)](https://git.io/typing-svg)
 <br>
 <h3>💫About Me:</h3>
 <br>🔭 I’m currently working on several exciting projects.<br>🌱 I’m always learning and exploring new technologies.<br>💬 Ask me about web development and tech in general.<br>📫 How to reach me: (https://solo.to/pradhumnya)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love coding challenges and hackathons.
