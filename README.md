@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Pradhunyagawande01/img-readme/blob/main/git-img.png?raw=true" alt="Pradhunya Gawande" width="200" height="200" style="border-radius:50%; margin-bottom: 20px;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Moderustic&weight=800&size=30&letterSpacing=Mediunm+&pause=1000&color=94AE89&center=true&vCenter=true&random=true&width=440&height=60&lines=Hi+%F0%9F%91%8B%2CI'm+Pradhunya+Gawande;I+am+a+Frontend+Developer+;I+am+a+Cybersecurity+Enthusiasts+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Moderustic&weight=800&size=30&letterSpacing=Mediunm+&pause=1000&color=94AE89&center=true&vCenter=true&random=true&width=440&height=60&lines=Hi+%F0%9F%91%8B%2CI'm+Pradhunya+Gawande;I+am+a+Frontend+Developer+;and+Cybersecurity+Enthusiasts+)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 
