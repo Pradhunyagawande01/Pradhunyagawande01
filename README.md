@@ -2,13 +2,22 @@
 
 <img src="https://github.com/Pradhunyagawande01/img-readme/blob/main/git-img.png?raw=true" alt="Pradhunya Gawande" width="200" height="200" style="border-radius:50%; margin-bottom: 20px;">
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Moderustic&weight=800&size=30&letterSpacing=Mediunm+&pause=1000&color=94AE89&center=true&vCenter=true&random=true&width=440&height=60&lines=Hi+%F0%9F%91%8B%2CI'm+Pradhunya+Gawande;I+am+a+Frontend+Developer+;and+Cybersecurity+Enthusiasts+)](https://git.io/typing-svg)
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pradhyumnya_patil) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pradhunya-gawande-9a61a3304) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@pradhunya_patil)
+ <div style="display: flex; gap: 10px; justify-content: center;">
+  <a href="https://instagram.com/pradhyumnya_patil">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="50" height="50">
+  </a>
+  <a href="https://linkedin.com/in/pradhunya-gawande-9a61a3304">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="50" height="50">
+  </a>
+  <a href="https://x.com/@pradhunya_patil">
+    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="X" width="50" height="50">
+  </a>
+</div>
 
 ## 💻 Tech Stack:
 
