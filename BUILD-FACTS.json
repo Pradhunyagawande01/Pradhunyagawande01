@@ -1,0 +1,82 @@
+{
+  "source": {
+    "id": {
+      "width": 1227,
+      "height": 1282,
+      "alpha": true,
+      "sha256": "5b4fdc428ec32f41bba5a7a937aa7bdb25d9b2964177c91b59fc1cb4302923e8",
+      "packagedSha256": "5b4fdc428ec32f41bba5a7a937aa7bdb25d9b2964177c91b59fc1cb4302923e8"
+    },
+    "pointing": {
+      "width": 1536,
+      "height": 1024,
+      "alpha": true,
+      "sha256": "2b0e9c23489cc7629a0c9c5b2af1e4df4f2c3b1593b48425b47b8b9f086a127b",
+      "packagedSha256": "2b0e9c23489cc7629a0c9c5b2af1e4df4f2c3b1593b48425b47b8b9f086a127b"
+    },
+    "linkedin": {
+      "bytes": 1722,
+      "sha256": "74cc6bbf9d1500e2705de8181e22c59fe8e4c79d9a828d7bdbf2062f575fb80e"
+    }
+  },
+  "fonts": {
+    "space400": {
+      "bytes": 22288,
+      "sha256": "0640890476fc1198ab4de571fb658de443c4d85b66466ec09534a8737ab1ce9d"
+    },
+    "mono400": {
+      "bytes": 14708,
+      "sha256": "08949f728dc52d528e69b1667d15c89a5686a4ee9a296ff90983985f99c380f7"
+    },
+    "mono700": {
+      "bytes": 14908,
+      "sha256": "4f84d86cfd060f4ded334358ff8a4c81d4db2ed5addd568359d693f44a87765a"
+    }
+  },
+  "stats": {
+    "checked": "07 Oct 2026",
+    "public_repos": 31,
+    "followers": 19
+  },
+  "repos": [
+    {
+      "name": "H4B-Season2",
+      "description": "Hack4Brahma - Coming soon........!",
+      "language": "JavaScript",
+      "stars": 2,
+      "updated_at": "2026-09-12T08:09:40Z"
+    },
+    {
+      "name": "hb-live",
+      "description": "Hack4Brahma",
+      "language": "JavaScript",
+      "stars": 1,
+      "updated_at": "2026-09-09T10:06:07Z"
+    }
+  ],
+  "icons": {
+    "react": {
+      "viewBox": "0 0 24 24",
+      "paths": 1
+    },
+    "next": {
+      "viewBox": "0 0 24 24",
+      "paths": 1
+    },
+    "github": {
+      "viewBox": "0 0 24 24",
+      "paths": 1
+    },
+    "instagram": {
+      "viewBox": "0 0 24 24",
+      "paths": 1
+    }
+  },
+  "svgFiles": [
+    "hero.svg",
+    "about-life.svg",
+    "stack.svg",
+    "id-dashboard.svg",
+    "connect.svg"
+  ]
+}

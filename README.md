@@ -1,53 +1,35 @@
-<div align="center">
+# Pradhunya Gawande
 
-<img src="https://github.com/Pradhunyagawande01/img-readme/blob/main/git-img.png?raw=true" alt="Pradhunya Gawande" width="300" height="400" style=" border-radius: 100%; margin-bottom: 20px;">
+![Profile hero](assets/hero.svg?v=1)
 
+![About and interests](assets/about-life.svg?v=1)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Moderustic&weight=800&size=30&letterSpacing=Mediunm+&pause=1000&color=94AE89&center=true&vCenter=true&random=true&width=440&height=60&lines=Hi+%F0%9F%91%8B%2CI'm+Pradhunya+Gawande;I+am+a+Frontend+Developer+;and+Cybersecurity+Enthusiasts+)](https://git.io/typing-svg)
+![Technology stack](assets/stack.svg?v=1)
 
-## 🌐 Socials:
+![Verified GitHub snapshot](assets/id-dashboard.svg?v=1)
 
- <div style="display: flex; gap: 10px; justify-content: center;">
-  <a href="https://instagram.com/pradhyumnya_patil">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="50" height="50">
-  </a>
-  <a href="https://linkedin.com/in/pradhunya-gawande-9a61a3304">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="50" height="50">
-  </a>
-  <a href="https://x.com/@pradhunya_patil">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="X" width="50" height="50">
-  </a>
-</div>
+![Connect](assets/connect.svg?v=1)
 
-## 💻 Tech Stack:
+## Connect with me
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- [LinkedIn](https://www.linkedin.com/in/pradhunya-gawande-9a61a3304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Instagram](https://www.instagram.com/pradhyumnya_patil?igsh=M2YwdGFkcXpkNTJl)
+- [GitHub](https://github.com/Pradhunyagawande01)
 
-# 📊 GitHub Stats:
+## Selected projects
 
-![](https://github-readme-stats.vercel.app/api?username=Pradhunyagawande01&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradhunyagawande01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradhunyagawande01&" alt="pradhunyagawande01" /></p>
+Repository metadata was checked on 07 Oct 2026. Stars and update dates are a snapshot.
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pradhunyagawande01&limit=5&theme=dark&combine_all_yearly_contributions=true)
-[![](https://visitcount.itsvg.in/api?id=Pradhunyagawande01&icon=0&color=0)](https://visitcount.itsvg.in)
+| Project | GitHub description | Language | Stars | Updated |
+|---|---|---:|---:|---|
+| [H4B-Season2](https://github.com/Pradhunyagawande01/H4B-Season2) | Hack4Brahma - Coming soon........! | JavaScript | 2 | 12 Sept 2026 |
+| [hb-live](https://github.com/Pradhunyagawande01/hb-live) | Hack4Brahma | JavaScript | 1 | 09 Sept 2026 |
 
-</div>
+## Sources and licenses
+
+- The portrait PNGs in assets/source/ are the original user-provided files. Every SVG embeds the relevant original PNG data.
+- Space Grotesk and IBM Plex Mono are embedded as WOFF2 fonts. Their SIL Open Font License texts are in [LICENSES](LICENSES/).
+- React, Next.js, GitHub and Instagram icon paths come from [Simple Icons](https://github.com/simple-icons/simple-icons), released under CC0.
+- The LinkedIn [in] icon is the unmodified official PNG asset from [LinkedIn Brand Guidelines](https://brand.linkedin.com/in-logo); it is used beside a link to the owner’s profile.
+- Detailed icon and asset references are in [ATTRIBUTION.md](ATTRIBUTION.md).
+- Profile counts are from [GitHub’s public user API](https://api.github.com/users/Pradhunyagawande01) and were checked 07 Oct 2026.
