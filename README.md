@@ -16,14 +16,6 @@
 - [Instagram](https://www.instagram.com/pradhyumnya_patil?igsh=M2YwdGFkcXpkNTJl)
 - [GitHub](https://github.com/Pradhunyagawande01)
 
-## Selected projects
-
-Repository metadata was checked on 07 Oct 2026. Stars and update dates are a snapshot.
-
-| Project | GitHub description | Language | Stars | Updated |
-|---|---|---:|---:|---|
-| [H4B-Season2](https://github.com/Pradhunyagawande01/H4B-Season2) | Hack4Brahma - Coming soon........! | JavaScript | 2 | 12 Sept 2026 |
-| [hb-live](https://github.com/Pradhunyagawande01/hb-live) | Hack4Brahma | JavaScript | 1 | 09 Sept 2026 |
 
 ## Sources and licenses
 
