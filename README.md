@@ -1,5 +1,3 @@
-# Pradhunya Gawande
-
 ![Profile hero](assets/hero.svg?v=1)
 
 ![About and interests](assets/about-life.svg?v=1)
